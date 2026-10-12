@@ -1,0 +1,9 @@
+# Problem Statement
+
+
+Write a C++ program to represent a file directory structure using a tree data structure. The program 
+should allow the user to create directories and subdirectories under a specified directory.
+It should also display all subdirectories under a selected directory.
+Each directory is represented as a node in the tree, and the parent-child relationship 
+represents the directory hierarchy. The program demonstrates the practical application of tree data 
+structures in file systems.
