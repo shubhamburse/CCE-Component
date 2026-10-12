@@ -1,0 +1,13 @@
+Develop a Food Order Management System using a Singly Linked List in C++. 
+Each node represents a food order and stores the Order ID, Food Item, Quantity, 
+and a pointer to the next order.
+
+The system should allow the user to:
+
+Add a new food order
+Delete a completed/cancelled order
+Search for an order using Order ID
+Display all pending orders
+
+The project demonstrates the use of dynamic memory allocation, pointers, 
+linked-list insertion, deletion, searching, and traversal.
