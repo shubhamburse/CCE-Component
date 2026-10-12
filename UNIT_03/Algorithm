@@ -1,0 +1,37 @@
+Algorithm
+
+Algorithm: Food Order Management System
+
+Step 1: Start.
+Step 2: Create a Node structure containing:
+Order ID
+Food Item
+Quantity
+Pointer to the next node
+Step 3: Initialize head = NULL.
+Step 4: Display the menu:
+Add Order
+Delete Order
+Search Order
+Display Orders
+Exit
+Step 5: For Add Order:
+Create a new node dynamically.
+Enter Order ID, Food Item and Quantity.
+Insert the node at the end of the linked list.
+Step 6: For Delete Order:
+Enter the Order ID.
+Search for the matching node.
+If found, remove the node and release its memory.
+Otherwise, display "Order not found".
+Step 7: For Search Order:
+Enter the Order ID.
+Traverse the linked list.
+If the ID matches, display the order details.
+Otherwise, display "Order not found".
+Step 8: For Display Orders:
+Start from head.
+Traverse each node.
+Display Order ID, Food Item and Quantity.
+Step 9: Repeat the menu until the user selects Exit.
+Step 10: Stop.
