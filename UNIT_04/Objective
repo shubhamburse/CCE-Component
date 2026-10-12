@@ -1,0 +1,8 @@
+Objective
+
+1. To understand the concept of tree data structures.
+2. To represent a file directory structure using a tree.
+3. To create directories and subdirectories.
+4. To display all subdirectories under a specified directory.
+5. To understand parent-child relationships in a tree.
+6. To implement tree traversal using C++.
