@@ -1,0 +1,8 @@
+The main objectives of this project are:
+
+To understand the concept of a Singly Linked List.
+To implement dynamic memory allocation using pointers.
+To perform insertion and deletion operations in a linked list.
+To search for a particular food order using its Order ID.
+To display all the pending food orders using linked-list traversal.
+To understand the practical application of linked lists in a real-world system. 
