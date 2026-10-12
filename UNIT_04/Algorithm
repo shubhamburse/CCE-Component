@@ -1,0 +1,27 @@
+Algorithm
+
+
+Step 1: Start the program.
+Step 2: Create a tree node structure containing the directory name and a list of child directories.
+Step 3: Create a root directory.
+Step 4: Display the menu:
+- Create a directory.
+- Display the directory structure.
+- Display subdirectories of a specified directory.
+- Exit.
+Step 5: If the user selects Create Directory:
+- Enter the parent directory name.
+- Enter the new subdirectory name.
+- Search for the parent directory in the tree.
+- If found, add the new directory as its child.
+- Otherwise, display an appropriate error message.
+Step 6: If the user selects Display Directory Structure:
+- Traverse the tree recursively.
+- Display all directories with indentation to represent their hierarchy.
+Step 7: If the user selects Display Subdirectories:
+- Enter the directory name.
+- Search for the specified directory.
+- If found, display its subdirectories.
+- Otherwise, display "Directory not found."
+Step 8: Repeat the menu until the user selects Exit.
+Step 9: Stop the program.
