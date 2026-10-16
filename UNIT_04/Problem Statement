@@ -7,3 +7,14 @@ It should also display all subdirectories under a selected directory.
 Each directory is represented as a node in the tree, and the parent-child relationship 
 represents the directory hierarchy. The program demonstrates the practical application of tree data 
 structures in file systems.
+
+
+Changed Problem Statement
+
+Write a C++ program to represent a file directory structure using a tree data structure. 
+The program should allow users to create and remove directories, search for a directory by 
+name and display its complete path, display all subdirectories under a specified directory, 
+count subdirectories, and calculate the maximum depth of the directory tree.
+Each directory is represented as a node in the tree, and the parent-child relationship 
+represents the directory hierarchy. The program demonstrates the practical application of 
+tree data structures in file management systems.
