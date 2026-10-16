@@ -9,7 +9,7 @@ represents the directory hierarchy. The program demonstrates the practical appli
 structures in file systems.
 
 
-Changed Problem Statement
+Modified Problem Statement
 
 Write a C++ program to represent a file directory structure using a tree data structure. 
 The program should allow users to create and remove directories, search for a directory by 
