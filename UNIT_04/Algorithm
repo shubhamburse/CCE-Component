@@ -27,7 +27,7 @@ Step 8: Repeat the menu until the user selects Exit.
 Step 9: Stop the program.
 
 
-Changed Algorithm
+Modified Algorithm
 
 Step 1: Start the program.
 Step 2: Create a tree node structure containing the directory name and a list of child directories.
