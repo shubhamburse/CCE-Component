@@ -25,3 +25,54 @@ Step 7: If the user selects Display Subdirectories:
 - Otherwise, display "Directory not found."
 Step 8: Repeat the menu until the user selects Exit.
 Step 9: Stop the program.
+
+
+Changed Algorithm
+
+Step 1: Start the program.
+Step 2: Create a tree node structure containing the directory name and a list of child directories.
+Step 3: Create a root directory and initialize the directory tree.
+Step 4: Display the following menu:
+Create Directory
+Remove Directory
+Search Directory and Display Path
+Display Directory Structure
+Display Subdirectories
+Count Subdirectories
+Find Maximum Directory Depth
+Exit
+Step 5: Create Directory
+Enter the parent directory name.
+Enter the new directory name.
+Search for the parent directory.
+If the parent exists, add the new directory as its child.
+Otherwise, display an error message.
+Step 6: Remove Directory
+Enter the directory name to remove.
+Search for the directory and its parent.
+If found and it is not the root directory, remove it and its associated subtree.
+Otherwise, display an appropriate error message.
+Step 7: Search Directory and Display Path
+Enter the directory name.
+Search the tree recursively.
+If found, display the complete path from the root directory.
+Otherwise, display "Directory not found."
+Step 8: Display Directory Structure
+Start from the root directory.
+Traverse the tree recursively.
+Display all directories with indentation to represent the hierarchy.
+Step 9: Display Subdirectories
+Enter the directory name.
+Search for the specified directory.
+If found, display its immediate subdirectories.
+Otherwise, display an error message.
+Step 10: Count Subdirectories
+Enter the directory name.
+Search for the directory.
+Count its immediate subdirectories and display the result.
+Step 11: Find Maximum Directory Depth
+Traverse the directory tree recursively.
+Calculate the maximum depth among all branches.
+Display the maximum directory depth.
+Step 12: Repeat the menu until the user selects Exit.
+Step 13: Stop the program.
