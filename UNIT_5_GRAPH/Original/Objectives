@@ -1,0 +1,7 @@
+To understand the basic concepts of graph data structures.
+To represent museum rooms as vertices and doorways as edges.
+To implement a graph using an adjacency matrix.
+To accept room names and doorway details from the user.
+To display the adjacency matrix representing room connectivity.
+To identify and display rooms directly connected to a selected room.
+To understand the practical application of graphs in real-world navigation systems.
