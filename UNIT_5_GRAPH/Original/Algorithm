@@ -1,0 +1,19 @@
+Step 1: Start the program.
+Step 2: Accept the number of rooms in the museum.
+Step 3: Enter the name of each room and store the names in an array.
+Step 4: Initialize the adjacency matrix with zeros, indicating that no doorways exist between the rooms initially.
+Step 5: Accept the number of doorways connecting the rooms.
+Step 6: For each doorway:
+Enter the names or indices of the two connected rooms.
+Find their corresponding positions in the array.
+Set the corresponding matrix entries to 1.
+Since the museum doorways are considered bidirectional, set both matrix[i][j] = 1 and matrix[j][i] = 1.
+Step 7: Display the adjacency matrix with room names as row and column headings.
+Step 8: Ask the user to enter the name of a room whose direct connections must be displayed.
+Step 9: Search for the selected room in the room list.
+Step 10: If the room is found:
+Check its corresponding row in the adjacency matrix.
+Display the names of all rooms whose matrix entries are 1.
+If no connections exist, display an appropriate message.
+Step 11: If the room is not found, display "Room not found."
+Step 12: Stop the program.
